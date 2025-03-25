@@ -1,6 +1,6 @@
 {
     "sonarlint.connectedMode.project": {
-        "connectionId": "john-clifton-test",
-        "projectKey": "john-clifton-test_interesting_rules_again"
+        "connectionId": "john-clifton-sonarsource",
+        "projectKey": "John-Clifton-SonarSource_interesting_rules"
     }
 }
